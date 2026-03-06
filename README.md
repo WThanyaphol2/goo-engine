@@ -4,7 +4,7 @@ linking to external resources instead of including content in-line.
 See 'release/text/readme.html' for the end user read-me.
 -->
 
-Goo Engine
+Goo Engine.
 ==========
 
 Goo Engine is a version of Blender by [DillonGoo Studios](https://www.youtube.com/dillongoo) with some key modifications
